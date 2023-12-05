@@ -1,7 +1,7 @@
 # Multiple-Linear-Regression
 The ML algorithm allows the prediction of petrol consumption based on multiple features.
 
-Similar to simple linear regression, here also we are predicting the target variable but it has more than one feature, unlike simple linear regression. The features in this model are Petrol_tax, Average_income, Paved_Highways, and Population_Driver_licence(%). This model also covers all 6 jars of the ML algorithm.
+Similar to simple linear regression, here also we are predicting the target variable but it has more than one feature, unlike simple linear regression. The features in this model are Hours Studied, Previous Scores,Extracurricular_Activities,Sleep Hours,Sample Question Papers Practiced. This model also covers all 6 jars of the ML algorithm.
 
 1st JAR: Data -
 
